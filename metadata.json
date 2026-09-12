@@ -1,0 +1,11 @@
+{
+  "name": "Remix FreshRoute AI",
+  "description": "AI-powered post-harvest value optimization and logistics intelligence platform for farmers and buyers",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
